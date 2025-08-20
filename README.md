@@ -1,16 +1,15 @@
-♧## Hi there 👋
+♧## Hi there 👋 I am Neville
 
-<!--
-**neville3984/neville3984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+● 🔦 I'm currently working 💪 on my programming skill set in 
+j   
+  ●🌱 I'm currently learning computer programming. 
 
-Here are some ideas to get you started:
+  ● 👥️ I'm looking forward to collaborating on Web design. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---
+  ● ⏲️ Ask me about technology and java script. 
+
+  ● 😌 You can reach me : neville3984.
+
+  ● 🌟 Pronouns He/him.
+
+  ● 💥 Fun fact: I love reading 📚 books. and playing football ⚽️. 
